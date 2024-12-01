@@ -1,0 +1,12 @@
+:root {
+    --cor-padrao: #f9faf4;
+    --cor-padrao-hover: #E1CAC0;
+    --cor-texto-claro: #d3b8a3;
+    --cor-formulario: #f4f4e4;
+    --cor-btn-houver: #e29885;
+    --cor-btn: #754c2e;
+    --cor-texto-escuro: #130b09;
+    --cor-fundo: #ffffff;
+    --cor-btn-fonte: #675644;
+    --cor-texto-detalhes: #d4c5be;
+}
